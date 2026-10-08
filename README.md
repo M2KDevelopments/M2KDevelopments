@@ -1,12 +1,7 @@
-![M2K Dev Banner](https://raw.githubusercontent.com/m2kdev/m2kdev/main/banner.png) 
-<!-- Tip: Replace the URL above with your hosted banner image URL -->
-
-# ⚡ Hi, I'm M2K Dev! 🎨
-
-> **Full-Stack Developer • Systems Craftsperson • Hardware & Software Builder**
-
 Welcome to my corner of GitHub! I’m a passionate developer focused on building modern web applications, high-performance APIs
 ![M2K Dev Repo Banner](https://ghrb.waren.build/banner?stats=false&header=%21%5Bgithub%5D+M2K+Dev+%F0%9F%91%8B&subheader=I+already+told+you%2C+I%27m+already+on+it%21&bg=013B84-016EEA&color=FFFFFF&headerfont=Permanent+Marker&subheaderfont=Kinewave&support=true&watermarkpos=bottom-right)
+
+> **Full-Stack Developer • Systems Craftsperson • Hardware & Software Builder**
 
 ### ⚡ Crafting Digital Experiences Across the Tech Spectrum
 
