@@ -1,5 +1,3 @@
-<img src="./Github Banner.jpg"/>
-
 Welcome to my corner of GitHub! I’m a passionate developer focused on building modern web applications, high-performance APIs
 
 > **Full-Stack Developer • Systems Craftsperson • Hardware & Software Builder**
